@@ -1,7 +1,7 @@
 package database
 
 import (
-	models "UBookTsk/model"
+	models "UBookTsk/moel"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

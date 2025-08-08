@@ -10,7 +10,7 @@ import (
 	"github.com/joho/godotenv"
 
 	database "UBookTsk/Database"
-	repository "UBookTsk/RepositoryPkg"
+	repository "UBookTsk/RepostoryPkg"
 	"UBookTsk/api"
 )
 
